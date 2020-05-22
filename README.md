@@ -27,15 +27,16 @@ Link CodePen: https://codepen.io/brendovidal/pen/mdeQxLZ
 
 <!---KANBAN
 # To Do
-- Animar as peças
-- Criar os botões
+- Eat healthy food
+- Exercise regularly
+- Learn sign language
 
 # In Progress
-- Importando o galinheiro
-- Iluminação do galinheiro
+- Drink too much
 
 # Done
-- Importando as galinhas
+- Regret my decisions
+- Age too quickly
 KANBAN--->
 
 
