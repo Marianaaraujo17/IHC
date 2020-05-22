@@ -25,6 +25,4 @@ Link CodePen: https://codepen.io/brendovidal/pen/mdeQxLZ
 </p>  
 </h4>
 
--[]Animar tudo
-
 
