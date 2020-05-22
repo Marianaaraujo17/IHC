@@ -16,8 +16,14 @@ Mariana dos Santos Araujo - RA: 1460481911056
 Arquivos: <br />
 Na pasta "Modelos" se encontra todas as peças em 3D usadas no projeto<br />
 O galinheiro.blend é o arquivo do modelo completo que só será aberto no Blender<br />
+</p>    
+</h4> 
+
+<h4>
+<p>
+Link CodePen: <https://codepen.io/brendovidal/pen/mdeQxLZ>   
 </p>  
-</h4>  
+</h4>
 
 
 
