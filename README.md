@@ -25,5 +25,17 @@ Link CodePen: https://codepen.io/brendovidal/pen/mdeQxLZ
 </p>  
 </h4>
 
+<!---KANBAN
+# To Do
+- Animar as peças
+- Criar os botões
+
+# In Progress
+- Importando o galinheiro
+- Iluminação do galinheiro
+
+# Done
+- Importando as galinhas
+KANBAN--->
 
 
