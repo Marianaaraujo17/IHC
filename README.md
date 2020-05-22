@@ -25,18 +25,6 @@ Link CodePen: https://codepen.io/brendovidal/pen/mdeQxLZ
 </p>  
 </h4>
 
-<!---KANBAN
-# To Do
-- Eat healthy food
-- Exercise regularly
-- Learn sign language
-
-# In Progress
-- Drink too much
-
-# Done
-- Regret my decisions
-- Age too quickly
-KANBAN--->
+-[]Animar tudo
 
 
