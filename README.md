@@ -1,6 +1,6 @@
-<h1>INTERAÇÃO HUMANO COMPUTADOR</h1>
+# INTERAÇÃO HUMANO COMPUTADOR
 
-<h3>Professor: Giuliano Araujo Bertoti</h3>
+### Professor: Giuliano Araujo Bertoti
 
 
 | INTEGRANTES               | RA            | 
@@ -11,7 +11,7 @@
 
 
 <p>
-Arquivos: <br />
+#### Arquivos: <br />
 Na pasta "Modelos" se encontra todas as peças em 3D usadas no projeto<br />
 O galinheiro.blend é o arquivo do modelo completo que só será aberto no Blender<br />
 </p>    
