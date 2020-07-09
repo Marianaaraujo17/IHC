@@ -5,7 +5,7 @@
 
 | INTEGRANTES               | RA            | 
 | ------------------------- |:-------------:|
-| Brendo Bubela Vidal       | right-aligned | 
+| Brendo Bubela Vidal       | 1460481911004 | 
 | Christian Dantas Germano  | centered      |   
 | Mariana dos Santos Araujo | 1460481911056 |   
 
