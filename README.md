@@ -4,10 +4,11 @@
 
 <h4>
 <p>
-Integrantes: <br />
-Brendo Bubela Vidal<br />
-Christian Dantas Germano<br />
-Mariana dos Santos Araujo - RA: 1460481911056
+| INTEGRANTES               | RA            | 
+| ------------------------- |:-------------:|
+| Brendo Bubela Vidal       | right-aligned | 
+| Christian Dantas Germano  | centered      |   
+| Mariana dos Santos Araujo | 1460481911056 |   
 </p>
 </h4>
 
