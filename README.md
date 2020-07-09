@@ -11,7 +11,7 @@
 
 
 <p>
-#### Arquivos: <br />
+#### Arquivos: 
 Na pasta "Modelos" se encontra todas as peças em 3D usadas no projeto<br />
 O galinheiro.blend é o arquivo do modelo completo que só será aberto no Blender<br />
 </p>    
