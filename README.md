@@ -9,6 +9,9 @@
 | Christian Dantas Germano  | centered      |   
 | Mariana dos Santos Araujo | 1460481911056 |   
 
+### Objetivo
+Desenvolver um projeto em realidade virtual para a montagem de uma peça.
+
 
 #### Arquivos  : 
 Na pasta "Modelos" se encontra todas as peças em 3D usadas no projeto<br />
