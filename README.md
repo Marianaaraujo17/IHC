@@ -21,7 +21,7 @@ O galinheiro.blend é o arquivo do modelo completo que só será aberto no Blend
 
 <h4>
 <p>
-Link CodePen: https://codepen.io/brendovidal/pen/mdeQxLZ   
+Link Glitch: https://glitch.com/edit/#!/flying-bubbly-sprint?path=index.html%3A9%3A8 
 </p>  
 </h4>
 
