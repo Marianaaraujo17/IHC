@@ -2,15 +2,13 @@
 
 <h3>Professor: Giuliano Araujo Bertoti</h3>
 
-<h4>
-<p>
+
 | INTEGRANTES               | RA            | 
 | ------------------------- |:-------------:|
 | Brendo Bubela Vidal       | right-aligned | 
 | Christian Dantas Germano  | centered      |   
 | Mariana dos Santos Araujo | 1460481911056 |   
-</p>
-</h4>
+
 
 <h4>
 <p>
