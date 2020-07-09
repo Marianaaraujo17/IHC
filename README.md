@@ -14,8 +14,8 @@
 Desenvolver um projeto em realidade virtual para a montagem de uma peça.
 
 ### Peça
-A peça escolhida pelo grupo foi um galinheiro, modelado no Blender. 
 ![alt text](https://github.com/Marianaaraujo17/IHC/blob/master/Galinheiro.PNG)
+A peça escolhida pelo grupo foi um galinheiro, modelado no Blender. 
 
 ### Arquivos
 Na pasta "Modelos" se encontra todas as peças em 3D usadas no projeto.
