@@ -45,7 +45,7 @@ O galinheiro.blend é o arquivo do modelo completo que só será aberto no Blend
 
 ### Alguns problemas encontrados pelo caminho
 Na primeira quinzena de junho, o grupo teve um problema com a iluminação do galinheiro. Quando importado o galinheiro ficava muito escuro e não refletia nenhum tipo de luz. Foram feitas várias tentativas como colocar alguns pontos de luz para iluminar diretamente as peças, o que não funcionou. Despois foi descoberto que o problema estava na coloração metálica colocada no Blender, depois de deletar o metálico no Shading o galinheiro ficou normal. 
-Também foi decedido não colocar as galinhas.
+Também foi decidido não colocar as galinhas.
 
 
 
