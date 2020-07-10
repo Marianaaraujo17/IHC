@@ -24,6 +24,27 @@ Na pasta "Modelos" se encontra todas as peças em 3D usadas no projeto.
 
 O galinheiro.blend é o arquivo do modelo completo que só será aberto no Blender.
 
+## Histórico de Atividades
+
+### Segunda Quinzena de Maio
+- Modelar o galinheiro
+- Modelar as galinhas
+- Colorir o galinheiro e as galinhas
+
+### Primeira Quinzena de Junho
+- Organizar o ambiente virtual
+- Arrumar problemas de iluminação do galinheiro
+
+### Segunda Quinzena de Junho
+- Modelar os botões
+- Animar as peças separadamentes 
+
+### Primeira Quinzena de Julho
+- Colocar textos para ajudar o usuário
+- Fazer últimos testes antes da apresentação
+
+
+
 
 
 
